@@ -29,10 +29,10 @@ I'm a frontend developer focused on building modern, user-friendly interfaces. I
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=frekuyt&theme=catppuccin-frappe&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=frekasz&theme=catppuccin-frappe&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frekuyt&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=frekasz&color=blue&style=for-the-badge" />
 </p>
 
 ---
