@@ -46,11 +46,16 @@ I'm a frontend developer focused on building modern, user-friendly interfaces. I
 ## 📬 Contact
 
 <p>
-  <a href="/cdn-cgi/l/email-protection#7e07110b0c3e1b131f1712501d1113">
+  <a href="mailto:franekkucma@onet.pl">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/frekasz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/frekuyt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gi
+  <a href="https://discord.com/users/frekasz">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/frenczesko">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
